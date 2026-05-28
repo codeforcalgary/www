@@ -1,0 +1,9 @@
+.hero {
+  background-image: linear-gradient(rgba(220, 38, 38, 0.8), rgba(220, 38, 38, 0.8)), url('/assets/images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.card-title {
+  color: #dc2626; /* Calgary Red */
+}
